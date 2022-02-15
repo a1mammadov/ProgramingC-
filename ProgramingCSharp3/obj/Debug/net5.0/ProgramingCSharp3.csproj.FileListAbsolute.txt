@@ -1,0 +1,16 @@
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\bin\Debug\net5.0\ProgramingCSharp3.exe
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\bin\Debug\net5.0\ProgramingCSharp3.deps.json
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\bin\Debug\net5.0\ProgramingCSharp3.runtimeconfig.json
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\bin\Debug\net5.0\ProgramingCSharp3.runtimeconfig.dev.json
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\bin\Debug\net5.0\ProgramingCSharp3.dll
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\bin\Debug\net5.0\ref\ProgramingCSharp3.dll
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\bin\Debug\net5.0\ProgramingCSharp3.pdb
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.AssemblyInfo.cs
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.dll
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ref\ProgramingCSharp3.dll
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.pdb
+C:\Users\99455\Desktop\ProgramingC#\ProgramingCSharp3\ProgramingCSharp3\obj\Debug\net5.0\ProgramingCSharp3.genruntimeconfig.cache
